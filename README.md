@@ -4,7 +4,7 @@
 
 The aim of designing this board was to:
   - develop a better understanding of circuit desing relating to ST microcontrollers
-  - develop a working knowledge of UART, SPI, I2C, USB communication protocols as relates to STM32s
+  - develop a working knowledge of UART, SPI, I2C, USB communication protocols for STM32s
   - Have an STM32 board on hand for future projects
   
   
